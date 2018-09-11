@@ -1,6 +1,6 @@
 # Marriage-Status-Prediction-Kaggle-Competition
 
-This competition was hosted online by Kaggle and was solved by me to find put which algorithm works best in terms of both accuracy as well as being the best fit for this problem
+This competition was hosted online by Kaggle and was solved by me to find which algorithm works best in terms of both accuracy as well as being the best fit for this problem
 
 The dataset contains 5 features - GAGE, BAGE, GP, BP and Annual Income where G - Girl B - Boy
 
