@@ -13,4 +13,3 @@ As it is a classification problem due to discrete target, I have used many class
 Go through the notebook file to find out which algorithm worked Best
 
 Thank You
-Kumaresaan
